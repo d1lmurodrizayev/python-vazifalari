@@ -1,1 +1,2 @@
-# python-vazifalari bu yerda python darsalriga oid kodlar jamlangan
+# python-vazifalari 
+Bu yerda python darsalriga oid kodlar jamlangan
